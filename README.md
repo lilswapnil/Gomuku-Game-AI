@@ -30,7 +30,7 @@ This repository contains an implementation of the Gomoku game with an AI opponen
    Ensure you have Python 3.x installed. Install the required packages using pip:
 
    ```bash
-   pip install -r requirements.txt
+   pip install numpy
    ```
 
 ## Usage
